@@ -10,7 +10,7 @@ import gc
 def create_logger():
     logger = logging.getLogger()
     logger.setLevel(logging.INFO)
-    fh = logging.FileHandler('tryme.log')
+    fh = logging.FileHandler('dmatrix_timing.log')
     fh.setLevel(logging.INFO)
     ch = logging.StreamHandler()
     ch.setLevel(logging.INFO)
@@ -56,7 +56,7 @@ def main(args):
 
 
 if __name__ == '__main__':
-    A = argparse.ArgumentParser()
+    A = argparse.ArgumentParser(description='DMatrix creating timing')
     A.add_argument('-t', help='nthreads', nargs='+')
     A.add_argument('--cache', help='where to cache the np.array')
     A.add_argument('--seed', help='random seed, ignored if cache is available', type=int)
