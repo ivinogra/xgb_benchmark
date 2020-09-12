@@ -30,8 +30,10 @@ def create_data(args):
     return np.where(a > threshold, a, np.nan)
 
 def main(args):
+    logger.info('\n----------------------')
     logger.info(sys.version)
     logger.info('xgboost version: {}'.format(xgb.__version__))
+    logger.info('rows: {}, columns: {}'.format(args.rows, args.columns))
     if args.cache is None:
         logger.info('Generating data')
         a = create_data(args)
