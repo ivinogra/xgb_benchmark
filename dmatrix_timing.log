@@ -1,0 +1,64 @@
+2020-09-12 14:52:55,929 - 
+----------------------
+2020-09-12 14:52:55,929 - 3.6.3 |Anaconda custom (64-bit)| (default, Oct 13 2017, 12:02:49) 
+[GCC 7.2.0]
+2020-09-12 14:52:55,929 - xgboost version: 0.90
+2020-09-12 14:52:55,929 - rows: 22, columns: 8
+2020-09-12 14:52:55,929 - Generating and caching data
+2020-09-12 14:56:46,067 - Running with 1 threads
+2020-09-12 14:56:52,412 - Using 1 threads; time: 6.3451 seconds
+2020-09-12 14:56:52,579 - Running with 2 threads
+2020-09-12 14:56:56,636 - Using 2 threads; time: 4.0562 seconds
+2020-09-12 14:56:56,803 - Running with 4 threads
+2020-09-12 14:56:59,884 - Using 4 threads; time: 3.0803 seconds
+2020-09-12 14:57:00,053 - Running with 8 threads
+2020-09-12 14:57:03,023 - Using 8 threads; time: 2.9704 seconds
+2020-09-12 14:57:03,195 - Done!
+2020-09-12 14:59:37,994 - 
+----------------------
+2020-09-12 14:59:37,994 - 3.6.3 |Anaconda custom (64-bit)| (default, Oct 13 2017, 12:02:49) 
+[GCC 7.2.0]
+2020-09-12 14:59:37,994 - xgboost version: 1.0.0
+2020-09-12 14:59:37,994 - rows: 22, columns: 8
+2020-09-12 14:59:37,994 - Loading cached data
+2020-09-12 15:00:01,747 - Running with 1 threads
+2020-09-12 15:00:16,003 - Using 1 threads; time: 14.2562 seconds
+2020-09-12 15:00:16,199 - Running with 2 threads
+2020-09-12 15:00:36,048 - Using 2 threads; time: 19.8485 seconds
+2020-09-12 15:00:36,217 - Running with 4 threads
+2020-09-12 15:01:00,089 - Using 4 threads; time: 23.8722 seconds
+2020-09-12 15:01:00,313 - Running with 8 threads
+2020-09-12 15:01:23,536 - Using 8 threads; time: 23.2229 seconds
+2020-09-12 15:01:23,793 - Done!
+2020-09-12 15:02:00,345 - 
+----------------------
+2020-09-12 15:02:00,345 - 3.6.3 |Anaconda custom (64-bit)| (default, Oct 13 2017, 12:02:49) 
+[GCC 7.2.0]
+2020-09-12 15:02:00,345 - xgboost version: 1.1.0
+2020-09-12 15:02:00,345 - rows: 22, columns: 8
+2020-09-12 15:02:00,345 - Loading cached data
+2020-09-12 15:02:24,470 - Running with 1 threads
+2020-09-12 15:02:38,289 - Using 1 threads; time: 13.8196 seconds
+2020-09-12 15:02:38,474 - Running with 2 threads
+2020-09-12 15:02:57,591 - Using 2 threads; time: 19.1171 seconds
+2020-09-12 15:02:57,771 - Running with 4 threads
+2020-09-12 15:03:16,434 - Using 4 threads; time: 18.6625 seconds
+2020-09-12 15:03:16,617 - Running with 8 threads
+2020-09-12 15:03:36,229 - Using 8 threads; time: 19.6117 seconds
+2020-09-12 15:03:36,408 - Done!
+2020-09-12 15:04:00,667 - 
+----------------------
+2020-09-12 15:04:00,667 - 3.6.3 |Anaconda custom (64-bit)| (default, Oct 13 2017, 12:02:49) 
+[GCC 7.2.0]
+2020-09-12 15:04:00,667 - xgboost version: 1.2.0
+2020-09-12 15:04:00,667 - rows: 22, columns: 8
+2020-09-12 15:04:00,668 - Loading cached data
+2020-09-12 15:04:23,954 - Running with 1 threads
+2020-09-12 15:04:37,990 - Using 1 threads; time: 14.0363 seconds
+2020-09-12 15:04:38,183 - Running with 2 threads
+2020-09-12 15:04:57,637 - Using 2 threads; time: 19.4534 seconds
+2020-09-12 15:04:57,823 - Running with 4 threads
+2020-09-12 15:05:16,678 - Using 4 threads; time: 18.8552 seconds
+2020-09-12 15:05:16,866 - Running with 8 threads
+2020-09-12 15:05:33,966 - Using 8 threads; time: 17.0991 seconds
+2020-09-12 15:05:34,149 - Done!
